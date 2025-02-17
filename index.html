@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>汉语拼音</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        h1 {
+            margin-top: 20px;
+            text-align: center;
+            color: #678967;
+        }
+        p {
+            text-align: center;
+            color: #666;
+            margin-bottom: 15px;
+        }
+        img {
+            width: 100%;
+            pointer-events: none; /* 允许鼠标穿透 img，访问 span */
+        }
+        span.t {
+            background-color: rgba(255, 0, 0, 0.3);
+        }
+        span {
+            cursor: pointer;
+            min-width: 30px;
+            min-height: 30px;
+            background-color: rgba(0, 255, 0, 0); /* 先让它可见，调试 */
+        }
+        span:hover {
+            background-color: rgba(255, 0, 0, 0.3) !important; /* hover 变色 */
+        }
+    </style>
+</head>
+<body>
+    <h1>和 Mickey 一起学拼音</h1>
+    <p>Mickey 爷爷制作</p>
+    <div style="position: relative; width: 100vw; height: auto;">
+        <img src="images/shengmu.png" alt="">
+        <span id="b"  style="
+            position: absolute;
+            top: 13.1%; left: 10%;
+            width: 17.1%; height: 12%;
+            display: block;
+            z-index: 10;
+        "></span>
+        <span id="p"  style="
+            position: absolute;
+            top: 13.1%; left: 30.8%;
+            width: 17.3%; height: 12.1%;
+            display: block;
+            z-index: 10;
+        "></span>
+        <span id="m"  style="
+        position: absolute;
+        top: 13.1%; left: 51.8%;
+        width: 17.3%; height: 12.1%;
+        display: block;
+        z-index: 10;
+    "></span>
+    <span id="f" style="
+    position: absolute;
+    top: 13.1%; left: 72.7%;
+    width: 17.3%; height: 12.1%;
+    display: block;
+    z-index: 10;
+"></span>
+<span id="d" style="
+position: absolute;
+top: 27.1%; left: 10%;
+width: 17.1%; height: 12%;
+display: block;
+z-index: 10;
+"></span>
+<span id="t" style="
+position: absolute;
+top: 27.1%; left: 30.8%;
+width: 17.3%; height: 12.1%;
+display: block;
+z-index: 10;
+"></span>
+    </div>
+    
+    <img src="images/yunmu.jpg" alt="">
+    <img src="images/zhengti.jpg" alt="">
+    
+    <script>
+        const sounds = {
+            b: new Audio('sound/b.m4a'),
+            p: new Audio('sound/p.m4a'),
+            m: new Audio('sound/m.m4a'),
+            f: new Audio('sound/f.m4a'),
+            d: new Audio('sound/d.m4a'),
+            t: new Audio('sound/t.m4a'),
+        };
+        document.addEventListener('click', function(event) {
+            if (sounds[event.target.id]) {
+                sounds[event.target.id].play();
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,192 @@
+ silence_start: 0.930042
+ silence_end: 3.054917 | silence_duration: 2.124875
+ silence_start: 3.691229
+ silence_end: 5.685958 | silence_duration: 1.994729
+ silence_start: 6.325
+ silence_end: 8.260458 | silence_duration: 1.935458
+ silence_start: 8.776208
+
+ silence_end: 10.721979 | silence_duration: 1.945771
+ silence_start: 11.221583
+
+ silence_end: 13.262021 | silence_duration: 2.040437
+ silence_start: 13.89125
+
+ silence_end: 15.798146 | silence_duration: 1.906896
+ silence_start: 16.584104
+
+ silence_end: 18.326083 | silence_duration: 1.741979
+ silence_start: 19.005208
+
+ silence_end: 20.858708 | silence_duration: 1.8535
+ silence_start: 21.453208
+
+ silence_end: 23.457729 | silence_duration: 2.004521
+ silence_start: 24.143187
+
+ silence_end: 26.03075 | silence_duration: 1.887563
+ silence_start: 26.776875
+
+ silence_end: 28.77125 | silence_duration: 1.994375
+ silence_start: 29.511854
+
+ silence_end: 31.386167 | silence_duration: 1.874313
+ silence_start: 32.221063
+
+ silence_end: 34.109708 | silence_duration: 1.888646
+ silence_start: 34.976979
+
+ silence_end: 36.817563 | silence_duration: 1.840583
+ silence_start: 37.538917
+
+ silence_end: 39.428708 | silence_duration: 1.889792
+ silence_start: 40.218792
+
+ silence_end: 42.1955 | silence_duration: 1.976708
+ silence_start: 43.064896
+
+ silence_end: 44.998875 | silence_duration: 1.933979
+ silence_start: 45.705583
+
+ silence_end: 47.680542 | silence_duration: 1.974958
+ silence_start: 48.406417
+
+ silence_end: 50.097417 | silence_duration: 1.691
+ silence_start: 50.890208
+
+ silence_end: 52.789021 | silence_duration: 1.898813
+ silence_start: 53.558646
+
+ silence_end: 55.466208 | silence_duration: 1.907562
+ silence_start: 56.120167
+
+ silence_end: 58.112354 | silence_duration: 1.992188
+ silence_start: 58.800792
+
+ 韵母
+ silence_end: 62.279604 | silence_duration: 3.478813
+ silence_start: 62.90575
+ a
+ silence_end: 64.858167 | silence_duration: 1.952417
+ silence_start: 65.557063
+ o
+ silence_end: 67.493354 | silence_duration: 1.936292
+ silence_start: 68.151167
+ e
+ silence_end: 69.728687 | silence_duration: 1.577521
+ silence_start: 70.452875
+ i
+ silence_end: 72.124062 | silence_duration: 1.671188
+ silence_start: 72.872479
+ u
+ silence_end: 74.559562 | silence_duration: 1.687083
+ silence_start: 75.503958
+ _u_
+ silence_end: 76.956479 | silence_duration: 1.452521
+ silence_start: 77.746875
+ ai
+ silence_end: 79.365396 | silence_duration: 1.618521
+ silence_start: 80.110729
+ ei
+ silence_end: 81.755854 | silence_duration: 1.645125
+ silence_start: 82.460521
+ ui
+ silence_end: 84.213687 | silence_duration: 1.753167
+ silence_start: 84.989708
+ ao
+ silence_end: 86.684854 | silence_duration: 1.695146
+ silence_start: 87.483229
+ ou
+ silence_end: 89.218063 | silence_duration: 1.734833
+ silence_start: 89.976167
+ iu
+ silence_end: 91.774333 | silence_duration: 1.798167
+ silence_start: 92.516125
+ ie
+ silence_end: 94.368729 | silence_duration: 1.852604
+ silence_start: 95.059396
+ ue
+ silence_end: 96.99775 | silence_duration: 1.938354
+ silence_start: 97.750958
+ er
+ silence_end: 99.691708 | silence_duration: 1.94075
+ silence_start: 100.416875
+ an
+ silence_end: 102.254312 | silence_duration: 1.837437
+ silence_start: 102.998562
+ en
+ silence_end: 104.797812 | silence_duration: 1.79925
+ silence_start: 105.541646
+ in
+ silence_end: 107.279896 | silence_duration: 1.73825
+ silence_start: 108.021583
+ un
+ silence_end: 109.75775 | silence_duration: 1.736167
+ silence_start: 110.497667
+
+ silence_end: 112.193208 | silence_duration: 1.695542
+ silence_start: 112.898875
+ ang
+ silence_end: 114.735563 | silence_duration: 1.836688
+ silence_start: 115.437375
+ eng
+ silence_end: 117.300833 | silence_duration: 1.863458
+ silence_start: 118.07875
+ ing
+ silence_end: 119.930604 | silence_duration: 1.851854
+ silence_start: 120.815479
+ ong
+ silence_end: 122.4795 | silence_duration: 1.664021
+ silence_start: 123.064667
+ 整体认读
+ silence_end: 126.272542 | silence_duration: 3.207875
+ silence_start: 127.861063
+ zhi
+ silence_end: 129.60325 | silence_duration: 1.742188
+ silence_start: 130.297937
+ chi
+ silence_end: 132.101333 | silence_duration: 1.803396
+ silence_start: 132.913146
+ shi
+ silence_end: 134.633875 | silence_duration: 1.720729
+ silence_start: 135.423875
+ ri
+ silence_end: 136.963021 | silence_duration: 1.539146
+ silence_start: 137.702208
+ zi
+ silence_end: 139.257521 | silence_duration: 1.555312
+ silence_start: 140.026167
+ ci
+ silence_end: 141.619771 | silence_duration: 1.593604
+ silence_start: 142.471208
+ si
+ silence_end: 144.107 | silence_duration: 1.635792
+ silence_start: 144.922188
+ yi
+ silence_end: 146.515437 | silence_duration: 1.59325
+ silence_start: 147.239354
+ wu
+ silence_end: 148.935479 | silence_duration: 1.696125
+ silence_start: 149.735625
+ yu
+ silence_end: 151.299083 | silence_duration: 1.563458
+ silence_start: 152.075437
+ ye
+ silence_end: 153.783271 | silence_duration: 1.707833
+ silence_start: 154.534812
+ yue
+ silence_end: 156.187604 | silence_duration: 1.652792
+ silence_start: 156.886792
+ yuan
+ silence_end: 158.642792 | silence_duration: 1.756
+ silence_start: 159.441583
+ yin
+ silence_end: 161.276729 | silence_duration: 1.835146
+ silence_start: 162.061062
+ yun
+ silence_end: 163.934708 | silence_duration: 1.873646
+ silence_start: 164.716708
+ ying
+ silence_end: 166.4985 | silence_duration: 1.781792
+ silence_start: 167.245354
+ silence_end: 169.470667 | silence_duration: 2.225312
