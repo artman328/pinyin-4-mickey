@@ -12,8 +12,8 @@
       }
 
       h1 {
-        margin-top: 20px;
-        text-align: center;
+        /* margin-top: 20px;
+        text-align: center; */
         color: #678967;
       }
 
@@ -27,6 +27,10 @@
         width: 100%;
         pointer-events: none;
         /* 允许鼠标穿透 img，访问 span */
+      }
+      .logo {
+        width: 200px;
+        border-radius: 50%;
       }
 
       span.t {
@@ -49,8 +53,11 @@
   </head>
 
   <body>
+    <div style="display: flex; align-items: center;justify-content: center; margin-top: 1rem;margin-bottom: 0.5rem;">
+    <img src="images/Billy_Mickey.png" alt="" class="logo">
     <h1>和 Mickey 一起学拼音</h1>
-    <p>Mickey 爷爷制作</p>
+    </div>
+
     <div style="position: relative; width: 100vw; height: auto">
       <img src="images/shengmu.png" alt="" />
       <span
@@ -823,7 +830,7 @@
       ></span>
     </div>
 
-    
+    <p>Mickey 爷爷制作</p>
     
 
     <script>
